@@ -1,6 +1,8 @@
 # Kennebec County, Maine: Multi-Year Habitat & Land-Cover Change Trajectory Analysis (2023–2026)
 
 ## Project Overview
+![Kennebec County Multi-Year Habitat Change Trajectories (2023–2026)](outputs/Layout_Kennebec_Trajectory_Map_2023-2026.png)
+📄 **[Download Full-Resolution Cartographic Layout (PDF)](outputs/Layout_Kennebec_Trajectory_Map_2023-2026.pdf)**
 This GIS analysis quantifies multi-year land-cover and wildlife habitat dynamics across **Kennebec County, Maine** (**608,305.7 acres** / **2,461.73 km²**) from **2023 to 2026** using **QGIS** (`EPSG:32619` / WGS 84 UTM Zone 19N, 30m × 30m resolution). By applying base-10 positional raster encoding, four annual classified habitat rasters (`Hab_Bin_2023` through `Hab_Bin_2026`) were synthesized into a single chronological trajectory raster covering **2,735,251 pixels**.
 
 The workflow tracks landscape stability, disturbance, and habitat transitions—with a conservation focus on **Forests / Deer Covering Areas**, **Non-Forest Wetlands**, **Deer Wintering Areas (DWA)**, and **Maine Conserved Lands (MCL)**.
